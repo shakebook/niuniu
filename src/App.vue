@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue';
 const a = '1';
 const b = 1;
+const c = { a: 1, c: 3 };
 </script>
 
 <template>
